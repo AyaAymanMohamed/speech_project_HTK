@@ -1,0 +1,4 @@
+$digit = ONE | TWO | THREE | FOUR | FIVE |
+	SIX | SEVEN | EIGHT | NINE | ZERO;
+( SIL <$digit [SIL] > SIL )
+
